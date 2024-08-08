@@ -59,7 +59,7 @@ tabBtn.forEach(item=>{
 // typing animation
 
 const titleElement = document.getElementById('developer-title');
-const titles = ["Front-End React Developer", "Web Developer"]; // Add other titles you want to cycle through
+const titles = ["Backend Developer", "Software Developer"]; // Add other titles you want to cycle through
 let currentIndex = 0;
 
 function cycleTitles() {
